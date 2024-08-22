@@ -1,0 +1,23 @@
+*{
+    margin: 50px;
+    padding: 0;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+body{
+    background-color: rgb(105, 105, 105);
+}
+h1{
+    color: rgb(255, 255, 255);
+
+}
+h2{
+    color: whitesmoke;
+}
+img{
+    width: 300px;
+    height: 250px;
+}
+p{
+    color: antiquewhite;
+    background-color: rgb(61, 60, 60);
+}
